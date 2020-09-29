@@ -1,4 +1,4 @@
-document.querySelector('.button').addEventListener('input', function () {
+document.querySelector('.button').addEventListener('click', function () {
   
   var printError = function(error, explicit) {
 }
